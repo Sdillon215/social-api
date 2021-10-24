@@ -16,6 +16,6 @@
 // .route('/:id')
 // .get(getThoughtById)
 // .put(updateThought)
-// .delete(deleteuser);
+// .delete(deleteThought);
 
 // module.exports = router;
